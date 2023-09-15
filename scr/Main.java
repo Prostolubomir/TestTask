@@ -33,7 +33,7 @@ public class Main {
             }
 
             if (a < 1 || a > 10 || b < 1 || b > 10){
-                System.out.println("Numbers should be less than 11 and more than 0");
+                System.out.println("Numbers should be less than 11 and greater than 0");
                 continue;
             }
 
